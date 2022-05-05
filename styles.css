@@ -1,0 +1,27 @@
+body {background: #EEEEEE;}
+.title_cluster {
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background: #c4c4c4;
+}
+
+.printer_paragraph {
+    width: 200px;
+}
+
+.about_us {
+    display: flex;
+    justify-content: space-around;
+}
+
+.employee1 {}
+
+.employee2 {}
+
+.employee3 {}
+
+.support {display: flex; justify-content: space-around; background: #c4c4c4;}
